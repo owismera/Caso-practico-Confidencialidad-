@@ -1,0 +1,5 @@
+pagina,nombre,roles,icono
+inicio.py,Inicio,ventas|compras|comercial,home
+pages\pagina1.py,Compras,compras|comercial,shopping_cart
+pages\pagina2.py,Contabilidad,contabilidad,account_balance
+pages\pagina3.py,Personal,personal,group
