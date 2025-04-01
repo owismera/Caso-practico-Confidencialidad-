@@ -1,0 +1,7 @@
+usuario,nombre,clave,rol
+admin,admin,admin,admin
+usrVentas,Analistaa Ventas,clave321,ventas
+usrCompras,Analista Compras,clave123,compras
+usrComercial,Analista Comercial,clave123,comercial
+usrContabilidad,Contador,clave123,contabilidad
+adminB,Owen Israel,clave123,admin
